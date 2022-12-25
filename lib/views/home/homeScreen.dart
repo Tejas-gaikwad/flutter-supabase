@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
-import 'package:supabase_hackathon/credentials/supabase.creds.dart';
+import 'package:supabase_hackathon/data/supabase.creds.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
